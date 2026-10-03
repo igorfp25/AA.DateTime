@@ -1,4 +1,4 @@
-# AA RegEx
+# AA DateTime
 
 AA DateTime is a custom Automation Anywhere package that adds Date Time actions for bots:
 
